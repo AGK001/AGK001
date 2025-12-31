@@ -2,7 +2,7 @@
 
 ### IT Infrastructure | Cybersecurity | Cloud Security
 
-I am a certified IT professional with a robust background in secure infrastructure and network operations. With a stack of CompTIA and Google certifications, I focus on building secure, scalable environments and leveraging Python to automate technical workflows.
+I am a certified IT professional with a robust background in secure infrastructure and network operations. With a stack of CompTIA, Google, AWS and Azure certifications, I focus on building secure, scalable environments and leveraging Python to automate technical workflows.
 
 ---
 
