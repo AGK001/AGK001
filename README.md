@@ -1,6 +1,6 @@
 # Hi there, I'm Ejike (Pronounced AGK) 👋
 
-### IT Infrastructure | Cybersecurity | Python Developer
+### IT Infrastructure | Cybersecurity | Cloud Security
 
 I am a certified IT professional with a robust background in secure infrastructure and network operations. With a stack of CompTIA and Google certifications, I focus on building secure, scalable environments and leveraging Python to automate technical workflows.
 
