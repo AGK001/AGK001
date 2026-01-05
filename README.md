@@ -65,7 +65,7 @@ As a cybersecurity and cloud security specialist, I maintain dedicated repositor
 ---
 
 ## 🚀 What I'm Working On
-- 🔭 **Project:** SC-900 Labs, Networking Labs,
+- 🔭 **Project:** SC-900 Labs, SC-300 labs and Identity Engineering (Python), Networking Labs.
 - 🐍 **Python:** Developing automation scripts for network log analysis.
 - ⚡ **Goal:** Transitioning into a Cloud Security Engineer role.
 
