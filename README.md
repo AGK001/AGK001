@@ -48,6 +48,22 @@ I am a certified IT professional with a robust background in secure infrastructu
 
 ---
 
+## 🛡️ Professional Portfolios
+
+As a cybersecurity and cloud security specialist, I maintain dedicated repositories for my technical work across different security domains:
+
+* ### [🔒 Cybersecurity Portfolio](https://github.com/AGK001/Cybersecurity-Portfolio)
+    **Focus:** Technical execution in on-prem and hybrid environments. 
+    * **Core Skills:** Linux (CLI), SQL (Auditing), Python (Security Automation), and Incident Response (NIST Framework).
+    * **Featured Work:** Python automation scripts, SQL-based log analysis, and documented Incident Handler Journals.
+
+* ### [☁️ Cloud Security Portfolio](https://github.com/AGK001/Cloud-Security-Portfolio)
+    **Focus:** Securing cloud-native environments and Multicloud architecture.
+    * **Core Skills:** Microsoft Entra ID (Azure AD), Identity & Access Management (IAM), AWS Security, and Zero Trust Architecture.
+    * **Featured Work:** Entra ID Identity Governance, Adaptive Access Control (MFA/Conditional Access), and Cloud Hardening.
+
+---
+
 ## 🚀 What I'm Working On
 - 🔭 **Project:** SC-900 Labs, Networking Labs,
 - 🐍 **Python:** Developing automation scripts for network log analysis.
